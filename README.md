@@ -1,4 +1,9 @@
- <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+@ font-face {
+  font-family: Florp;
+  src: url('https://github.com/BrendanDesrosiers/Fonts-by-Brendan/blob/main/FLORP.ttf') format('truetype');
+}
+</style>
 # Fonts by Brendan
 This is simply a collection of all the fonts I have made.
 
