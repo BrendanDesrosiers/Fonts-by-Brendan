@@ -1,7 +1,7 @@
 # Fonts by Brendan
 This is simply a collection of all the fonts I have made.
 
-# [Florp](https://github.com/BrendanDesrosiers/Fonts-by-Brendan/blob/main/FLORP.ttf) 
+# Florp
 * Currently the only font I have created and published here.
 * Made using [Aseprite](https://www.aseprite.org/), a popular pixel art software, and [Yal's Pixel Font Converter](https://yal.cc/tools/pixel-font/), a neat webtool developed by YellowAfterlife (Vadym Diachenko)
 
