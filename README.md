@@ -1,3 +1,4 @@
+ <link rel="stylesheet" type="text/css" href="style.css">
 # Fonts by Brendan
 This is simply a collection of all the fonts I have made.
 
